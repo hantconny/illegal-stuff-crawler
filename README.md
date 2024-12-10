@@ -70,6 +70,8 @@
 - Steroids
 - Stimulants
 - Synthetic Opioids
+- drug-manufacturing
+- cooking meth
 
 #### 反向关键词
 
@@ -78,3 +80,20 @@
 - medication
 
 也可以从 DEA 官网获取图片，已实现，参考 `dea_drug_image.py`。
+
+### 其他
+
+视频
+
+涉枪涉恐
+
+https://www.tiktok.com/@cops.unhinged
+
+https://www.tiktok.com/@bodycam.police.trend
+
+https://www.tiktok.com/@usa.enforcers
+
+涉黄
+
+https://www.tiktok.com/@tiflopontikas.7
+
