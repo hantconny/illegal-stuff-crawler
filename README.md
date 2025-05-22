@@ -1,5 +1,7 @@
 ## 涉枪涉恐色情毒品内容爬虫
 
+该爬虫用来给 AI 研判提供特定素材。
+
 均可以从 [gettyimages](https://www.gettyimages.com) 搜索特定关键词获取。
 
 ### 涉枪涉恐
